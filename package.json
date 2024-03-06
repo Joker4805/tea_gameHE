@@ -11,8 +11,9 @@
     "url": "https://github.com/Joker4805/tea_gameHE.git"
   },
   "dependencies": {
+    "minti_fulkerson": "0.1.4",
     "tea-demonstration": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "tea-narnian": "^1.0.0"
   },
   "author": "",
   "license": "ISC",
